@@ -127,7 +127,6 @@ SQL_TOOL/
 ├── requirements.txt       
 ├── .env       
 ├── architecture/                   
-│   ├── architecture.pdf  
 |   |── architecture.png 
 ├── src/                   
 │   ├── app.py  
