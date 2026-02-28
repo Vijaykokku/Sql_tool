@@ -125,7 +125,7 @@ SQL_TOOL/
 │
 ├── README.md              
 ├── requirements.txt       
-├── .env       
+├── .env1       
 ├── architecture/                   
 |   |── architecture.png 
 ├── src/                   
