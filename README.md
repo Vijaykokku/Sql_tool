@@ -145,7 +145,7 @@ SQL_TOOL/
 ### 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/Vijaykokku/SQL-AI-BOT.git
+git clone https://github.com/Vijaykokku/Sql_tool.git
 ```
 
 ### 2️⃣ Create Virtual Environment
