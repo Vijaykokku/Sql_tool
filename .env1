@@ -1,0 +1,27 @@
+# ==============================
+# LLM CONFIGURATION
+# ==============================
+
+GROQ_API_KEY=
+
+
+# ==============================
+# SQL SERVER CONFIGURATION
+# ==============================
+
+SQL_SERVER=
+SQL_DATABASE=
+
+# If using SQL Authentication (optional)
+# SQL_USERNAME=
+# SQL_PASSWORD=
+
+# If using Windows Authentication
+USE_TRUSTED_CONNECTION=True
+
+
+# ==============================
+# BACKEND API CONFIG
+# ==============================
+
+SQL_API_URL=http://localhost:8000/query

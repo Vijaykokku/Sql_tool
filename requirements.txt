@@ -1,0 +1,19 @@
+# Frontend
+streamlit==1.32.2
+
+# Backend API
+fastapi==0.110.0
+uvicorn==0.27.1
+
+# Database
+pyodbc==5.1.0
+pandas==2.2.1
+
+# LLM Integration
+groq==0.4.2
+
+# HTTP Requests
+requests==2.31.0
+
+# Environment Variables
+python-dotenv==1.0.1
