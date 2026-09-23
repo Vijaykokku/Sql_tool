@@ -5,7 +5,7 @@ from groq import Groq
 import json
 from dotenv import load_dotenv
 
-# -------------------------------
+# ---------------------------------
 # LOAD ENV
 # -------------------------------
 load_dotenv()

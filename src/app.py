@@ -6,7 +6,7 @@ from dotenv import load_dotenv
 
 # -------------------------------
 # LOAD ENV VARIABLES
-# -------------------------------
+# --------------------------------
 load_dotenv()
 
 app = FastAPI()
